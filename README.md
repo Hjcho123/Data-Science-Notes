@@ -1,2 +1,2 @@
 # Data Science Notes
-Collected Jupyter notes on Python, NumPy, Pandas, MatplotLib, and more
+These are the Notes I've accumulated while teaching myself the basics of Python, NumPy, Pandas, and more ML topics! 
